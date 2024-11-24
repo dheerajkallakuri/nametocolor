@@ -2,7 +2,7 @@
 
 This project generates a unique color based on a user's name. The color is derived by summing the positions of the letters in the alphabet for each part of the name (first, middle, and last), scaling the values, and mapping them to the RGB and hexadecimal color formats.
 
-Link: 
+Link: https://nametocolor.streamlit.app/
 
 ## Features
 1. **Name Input**: Accepts the user's first, middle, and last names as input.
