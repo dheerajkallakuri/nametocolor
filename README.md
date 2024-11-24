@@ -30,6 +30,9 @@ Hex: #ac4c54
 ```
 <img width="1339" alt="Screenshot 2024-11-23 at 5 33 23 PM" src="https://github.com/user-attachments/assets/d249b5fb-655d-4356-9dde-6767cec2497c">
 
+## Inspiration
+Instagram reel: https://www.instagram.com/reel/C--dKqZuYMS/?igsh=dWN6bmtxY2N6cHNs
+
 ## Customization
 - Modify the scaling factor (currently `4`) to influence the RGB values.
 - Enhance the app with additional input validations or features like live color previews using libraries such as Streamlit or Tkinter.
